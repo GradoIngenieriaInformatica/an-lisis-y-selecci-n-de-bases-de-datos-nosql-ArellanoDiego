@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Base de datos Orientada a Grafos (ej. Neo4j) porque es la única que gestiona eficientemente las relaciones complejas y grados de profundidad entre nodos.

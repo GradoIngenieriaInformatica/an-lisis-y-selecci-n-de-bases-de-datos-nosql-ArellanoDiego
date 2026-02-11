@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Base de datos Clave-Valor (ej. Redis) porque opera en memoria ofreciendo la máxima velocidad posible para accesos simples por identificador.
