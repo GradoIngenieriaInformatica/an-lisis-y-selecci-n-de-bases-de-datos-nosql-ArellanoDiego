@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Base de datos Columnar |  Tambien pueden ser de Series Temporales porque optimizan la escritura masiva de datos y las consultas por rangos de fechas (ej. Cassandra) .

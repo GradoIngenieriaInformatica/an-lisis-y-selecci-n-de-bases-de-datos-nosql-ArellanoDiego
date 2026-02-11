@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Base de datos Clave-Valor| Porque opera en memoria ofreciendo la máxima velocidad posible para accesos simples por identificador (ej. Redis).
